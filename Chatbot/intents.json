@@ -1,0 +1,25 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns":["hello", "hey", "hallo", "hi", "good day", "good morning", "what's up", "ewa"],
+    "responses":["Hello there!", "Hey!", "What's up?", "Hey, want to hear a joke?"] 
+},
+    {"tag": "goodbye",
+    "patterns":["Bye", "cya", "doei", "fijne dag", "I have to go", "see ya", "I am leaving", "ik ga weg"],
+    "responses":["Have a nice day!", "Talk to you later", "Goodbye, have a good one!", "Are you sure you don't want to hear another joke?"] 
+},
+    
+    {"tag": "age",
+    "patterns":[],
+    "reponses":[]
+
+},
+
+
+
+
+    {"tag": "jokes",
+    "patterns":["joke", "fun", "I want to have fun", "I want to laugh", "laugh", "funny", "another joke", "banter", "lol", "Jokes"],
+    "responses":["I know a fun Joke! Wait a second! "]
+}
+   
+  ]}
